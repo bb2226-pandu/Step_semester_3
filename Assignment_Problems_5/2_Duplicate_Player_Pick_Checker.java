@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Problem2 {
+public class Duplicate_Player {
 
     static String findDuplicatePick(String[] playerNames) {
 
